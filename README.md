@@ -25,7 +25,7 @@ I enjoy digging into how systems work under the hood, experimenting with ideas, 
 ---
 ### ⚙️ Toolbox
 - **Languages**: C, Rust, Python
-- **Systems**: Linux, Yocto, RTOS
+- **Systems**: Linux, Yocto, RTOS, Raspberry Pi, Microcontrollers
 - **Tools**: GIT, Trace32, Docker...
 
 ---
