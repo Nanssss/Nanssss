@@ -32,9 +32,9 @@ I enjoy digging into how systems work under the hood, experimenting with ideas, 
 ### 🚀 Projects
 Some of the things I’ve built, feel free to check the repos!
 
-- 🌐 **Nextcloud on Docker** — simple setup to self-host your personal cloud, with a clean and reproducible infra.  
-- 📺 **IR remote control for TV/PC** — turn an old TV into a smart TV using Arduino + IR sensor. 
-- 🎮 **League of Legends minimap reminder** — tiny BEEEEP tool to stay aware of the minimap while playing (yes I'm bad at this game).
+- 🌐 **[Nextcloud on Docker](https://github.com/Nanssss/nextcloud-on-docker)** — simple setup to self-host your personal cloud, with a clean and reproducible infra.  
+- 📺 **[IR remote control for TV/PC](https://github.com/Nanssss/ir-pc)** — turn an old TV into a smart TV using Arduino + IR sensor. 
+- 🎮 **[League of Legends minimap reminder(https://github.com/Nanssss/bipmap)** — tiny BEEEEP tool to stay aware of the minimap while playing (yes I'm bad at this game).
 
 More available on my profile if you're curious! And don't hesitate to submit your comments or questions 😉
 
